@@ -16,7 +16,7 @@
 
 ## <h3> Código 2: </h3>
 
->Retorna todos os números pares recebidos em uma sequência de 30 elementos, feito em Portugol.dev
+>Retorna todos os números pares recebidos em uma sequência de 30 elementos, feito com Portugol.dev
 >
 
 <img width="613" alt="printvetor" src="https://github.com/user-attachments/assets/c798ecc1-4a8f-4a38-9599-31697ca6dc1f">
