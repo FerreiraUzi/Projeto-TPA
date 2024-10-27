@@ -245,14 +245,16 @@ programa {
   Fluxogramas são representações gráficas de processos ou algoritmos, que ajudam a visualizar a sequência de passos necessários para executar uma tarefa específica. Eles utilizam formas geométricas e setas para mostrar a lógica e o fluxo de um processo, tornando mais fácil entender como as informações se movem de uma etapa para outra. 
   
   
+ 
 
- > 💫 Oval: Representa o início e o fim;
-  
- > 💫 Retângulo: Representa uma ação;
-  
- > 💫 Losângulo: Representa uma decisão;
-  
- > 💫 Seta: Representa o caminho do fluxograma.
+
+|    Forma:     |     Informação:                      |
+| ------------- | ------------------------------------ |
+| Oval          |  Representa o início e o fim;        |
+| Retângulo     |  Representa uma ação;                |
+| Losângulo     |  Representa uma decisão;             |
+| Seta          |  Representa o caminho do fluxograma. |
+
 
 
   <img src="https://api-blog.rdstation.com/wp-content/uploads/2024/08/AD_4nXeVApNmEw4HpXy593moRrmkLHdfu5-S-IdzT8j4kuGo0iBipz89Wno8kUp4Gp9CU8geaC-rRksjfIQVMwRMpCXQs6VmZYGigJfqBktvOOv2oC_t1BTndSlSus0iX8or8zlOKlBGreI7QPXFKog6tseZLzOlkeyfS6HX0sXBv8TKKbgFRmvPw.png" width=40%>
